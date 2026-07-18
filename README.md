@@ -68,8 +68,6 @@ Business Insights
 ├── 📓 02_Data_Cleaning_and_Preprocessing.ipynb
 ├── 📓 03_Exploratory_Data_Analysis_checkpoint.ipynb
 ├── 📓 04_Feature_Engineering_checkpoint.ipynb
-│
-└── 📁 Images
 ```
 
 ---
@@ -111,7 +109,6 @@ Business Insights
 ### Skills
 
 - Data Cleaning
-- Data Wrangling
 - Data Transformation
 
 ---
@@ -159,8 +156,7 @@ Business Insights
 | Pandas | Data Manipulation |
 | NumPy | Numerical Operations |
 | Matplotlib | Data Visualization |
-| Seaborn | Statistical Visualization |
-| Jupyter Notebook | Development Environment |
+| Seaborn | Jupyter Notebook | Development Environment |
 
 ---
 
@@ -217,26 +213,6 @@ The analysis aims to answer questions such as:
 - Which products generate maximum profit?
 - What factors affect profitability?
 - How can business performance be improved?
-
----
-
-# 📸 Project Screenshots
-
-You can add screenshots here after completing the project.
-
-Example:
-
-```
-Images/
-
-dashboard.png
-
-sales_analysis.png
-
-profit_analysis.png
-
-heatmap.png
-```
 
 ---
 
